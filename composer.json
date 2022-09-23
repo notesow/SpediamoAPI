@@ -29,8 +29,9 @@
         "phpunit/phpunit": "^9.3.3"
     },
     "autoload": {
-        "psr-0": {
-            "spediamoapi": "src"
+        "psr-4": {
+            "notesow\\": "src/",
+            "notesow\\spediamoapi\\": "src/"
         }
     }
 }
