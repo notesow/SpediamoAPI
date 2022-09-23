@@ -437,7 +437,6 @@ class Command
             if ($loaderFile) {
                 /**
                  * @noinspection PhpIncludeInspection
-                 *
                  * @psalm-suppress UnresolvableInclude
                  */
                 require $loaderFile;
@@ -499,7 +498,6 @@ class Command
             if ($printerFile) {
                 /**
                  * @noinspection PhpIncludeInspection
-                 *
                  * @psalm-suppress UnresolvableInclude
                  */
                 require $printerFile;
