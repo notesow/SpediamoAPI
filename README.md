@@ -7,6 +7,10 @@ Spediamo.it PHP API (shipping automation) | Php Library Model (Unofficial)
 |-------------|--------|----------|---------|
 | PHP >=7.4   | @Beta  | Composer | 2.7.1   |
 
+### 🐱‍🚀 Install Library:
+
+` composer require notesow/spediamoapi`
+
 ### 💎 Register your [account](https://spediamo.it/app/v1#/registrati).
 
 Manage all your orders at the same time and in one place!
