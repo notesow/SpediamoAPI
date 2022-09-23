@@ -3,6 +3,10 @@ Spediamo.it PHP API (shipping automation) | Php Library Model (Unofficial)
 
 > Small PHP library for use [Spediamo.it](https://spediamo.it/).
 
+[![Latest Stable Version](http://poser.pugx.org/notesow/spediamoapi/v)](https://packagist.org/packages/notesow/spediamoapi)
+[![Latest Unstable Version](http://poser.pugx.org/notesow/spediamoapi/v/unstable)](https://packagist.org/packages/notesow/spediamoapi)
+[![License](http://poser.pugx.org/notesow/spediamoapi/license)](https://packagist.org/packages/notesow/spediamoapi)
+
 | PHP Version | Status | Require  | version |
 |-------------|--------|----------|---------|
 | PHP >=7.4   | @Beta  | Composer | 2.7.1   |
